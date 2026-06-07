@@ -10,7 +10,7 @@
     </parent>
     <groupId>br.ifg.urutai</groupId>
     <artifactId>sd-api-servico-nomes</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>sd-api-servico-nomes</name>
     <description>sd-api-servico-nomes</description>
     <url/>
